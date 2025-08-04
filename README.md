@@ -4,7 +4,7 @@
 
 ## 📦 Зависимости
 
-- Python 3.7+
+- Python
 - FastAPI
 - Uvicorn
 - SQLite
