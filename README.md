@@ -106,7 +106,7 @@ GET /reviews?sentiment=negative
 **Добавить отзыв:**
 
 ```bash
-curl -X POST http://127.0.0.1:8000/reviews -H "Content-Type: application/json" -d "{\"text\": \"люблю ваш сервис\"}"
+curl -X POST http://127.0.0.1:8000/reviews -H "Content-Type: application/json" -d "{\"text\": \"ненавижу ваш сервис\"}"
 ```
 
 **Получить все отрицательные отзывы:**
